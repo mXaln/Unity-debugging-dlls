@@ -1,3 +1,3 @@
 # Unity-debugging-dlls
 
-[download dlls from github releases](https://github.com/mxaln/Unity-debugging-dlls/releases/tag/v2020.07.10)
+[download dlls from github releases](https://github.com/mxaln/Unity-debugging-dlls/releases/tag/v1)
