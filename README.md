@@ -1,3 +1,3 @@
 # Unity-debugging-dlls
 
-[download dlls from github releases](https://github.com/mxaln/Unity-debugging-dlls/releases/tag/v1)
+[download dlls from github releases](https://github.com/mXaln/unity-debugging-dlls/releases/tag/v1)
